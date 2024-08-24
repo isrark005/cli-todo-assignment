@@ -2,7 +2,7 @@
 Add a Task
 
 Adds a new task to the list with a name and time.
-```node index.js add "<taskName>" "<taskTime>"```
+`node index.js add "<taskName>" "<taskTime>"`
 
 Lists all the tasks in the todos.json file.
 ```node index.js task-list```
